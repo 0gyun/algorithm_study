@@ -1,5 +1,5 @@
 /**
- * 
+ * 2023.06.23
  * 
  * 백준 1932번 문제 (https://www.acmicpc.net/problem/1932)
  * 
