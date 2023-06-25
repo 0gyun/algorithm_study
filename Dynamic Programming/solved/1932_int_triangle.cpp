@@ -50,7 +50,7 @@ int main()
         scanf("%d", &x);
 
         table[0][i] = x;
-        if(i >= total_len - n) table[2][i] = x;
+        if(i > total_len - n) table[2][i] = x;
     }
 
     int k = n-1; // k는 각 Level에서 돌아야 하는 개수를 나타내는 역할
